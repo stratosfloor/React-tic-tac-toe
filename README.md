@@ -1,5 +1,7 @@
 # React tutorial tic-tac-toe
 
+## [Deployment on Heroku](https://tic-tac-toe-stratos.herokuapp.com/)
+
 ## To do: 
 
 - Display the location for each move in the format (col, row) in the move history list.
